@@ -16,18 +16,25 @@ DeployTrack is a lightweight desktop application for recording and reviewing pro
 
 ## Screenshots
 
-<table>
-  <tr>
-    <td align="center"><img src="https://github.com/user-attachments/assets/c8c8fe92-d6fb-4299-86df-24c90fdddeba" width="320" alt="DeployTrack dashboard"/><br/>📊 Dashboard</td>
-    <td align="center"><img src="https://github.com/user-attachments/assets/003d6999-d5b0-4bc7-9a44-2364ed5d5ec6" width="320" alt="Deployment history with filters"/><br/>🚀 Deployments and filters</td>
-    <td align="center"><img src="https://github.com/user-attachments/assets/781aac92-654f-4549-9a2e-c4247e99e75e" width="320" alt="DeployTrack projects"/><br/>📁 Projects</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://github.com/user-attachments/assets/af74c515-07c3-4362-8280-14862883b424" width="320" alt="New deployment form"/><br/>➕ New deployment</td>
-    <td align="center"><img src="https://github.com/user-attachments/assets/2b0fa430-f010-4cba-9459-c5209c77101e" width="320" alt="DeployTrack settings"/><br/>⚙️ Settings</td>
-    <td></td>
-  </tr>
-</table>
+### Dashboard
+
+![DeployTrack dashboard](https://github.com/user-attachments/assets/c8c8fe92-d6fb-4299-86df-24c90fdddeba)
+
+### Deployments and filters
+
+![Deployment history with filters](https://github.com/user-attachments/assets/003d6999-d5b0-4bc7-9a44-2364ed5d5ec6)
+
+### Projects
+
+![DeployTrack projects](https://github.com/user-attachments/assets/781aac92-654f-4549-9a2e-c4247e99e75e)
+
+### New deployment
+
+![New deployment form](https://github.com/user-attachments/assets/af74c515-07c3-4362-8280-14862883b424)
+
+### Settings
+
+![DeployTrack settings](https://github.com/user-attachments/assets/2b0fa430-f010-4cba-9459-c5209c77101e)
 
 ## Requirements
 
